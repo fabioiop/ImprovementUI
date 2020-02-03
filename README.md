@@ -1,3 +1,8 @@
+![Alt Text](../master/banner.png?raw=true "Title")
+
+![Image of ImprovementUI](https://github.com/fabioiop/ImprovementUI/blob/master/banner.png)
+
+
 # Improvement UI for macOS Mojave and Catalina.
 (only to Unsupported Macs)
 

@@ -14,5 +14,8 @@ The mask for the window corners has been updated to Metal. Therefore, the corner
 If the application cannot be opened because it is from an unidentified developer:
 System Preferences > Security & Privacy > General and allow app to run
 
+
 This utility is provided to anyone free of charge.
 
+# Examples
+[read me.pdf](https://github.com/fabioiop/ImprovementUI/blob/master/read%20me.pdf)

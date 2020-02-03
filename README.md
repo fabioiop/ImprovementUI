@@ -1,4 +1,4 @@
-![Alt Text](../master/banner.png?raw=true "Title")
+![Alt Text](../master/banner.png)
 
 ![Image of ImprovementUI](https://github.com/fabioiop/ImprovementUI/blob/master/banner.png)
 

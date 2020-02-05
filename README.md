@@ -2,7 +2,7 @@
 
 # Improvement UI for macOS Mojave and Catalina.
 (only to Unsupported Macs)
-[Download link](https://github.com/fabioiop/ImprovementUI/releases/)
+
 
 # What is this?
 
@@ -19,3 +19,7 @@ This utility is provided to anyone free of charge.
 
 # Examples
 [read me.pdf](https://github.com/fabioiop/ImprovementUI/blob/master/read%20me.pdf)
+
+
+# Download
+[Download link](https://github.com/fabioiop/ImprovementUI/releases/)

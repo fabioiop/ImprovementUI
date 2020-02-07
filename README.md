@@ -18,7 +18,7 @@ If the application cannot be opened because it is from an unidentified developer
 This utility is provided to anyone free of charge.
 
 # How to use and additional info
-[read me.pdf](https://github.com/fabioiop/ImprovementUI/blob/master/read%20me.pdf)
+[Readme](https://github.com/fabioiop/ImprovementUI/blob/master/Readme.pdf)
 
 
 # Download

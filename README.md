@@ -17,7 +17,9 @@ If the application cannot be opened because it is from an unidentified developer
 
 This utility is provided to anyone free of charge.
 
-# If Catalina 10.15.4 or later stuck on boot screen
+# More
+If Catalina 10.15.4 or later stuck on boot screen:
+
 Disable SIP.
 1. Reboot your Mac into install disk 
 2. Click Utilities > Terminal.

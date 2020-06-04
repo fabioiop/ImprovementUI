@@ -24,6 +24,7 @@ Disable SIP.
 1. Reboot your Mac into install disk 
 2. Click Utilities > Terminal.
 3. In the Terminal window, type in: csrutil disable and press Enter.
+
 Disable AMFI
 4. In the Terminal window, type in: nvram boot-args="-no_compat_check amfi_get_out_of_my_way=0x1" (with quotes) and press Enter
 5. Restart your Mac.

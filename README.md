@@ -27,8 +27,9 @@ Disable SIP.
 
 Disable AMFI
 
-4. In the Terminal window, type in: nvram boot-args="-no_compat_check amfi_get_out_of_my_way=0x1" (with quotes) and press Enter
-5. Restart your Mac.
+4. In the Terminal window, type in: mount -uw /  and press Enter
+5. In the Terminal window, type in: nvram boot-args="-no_compat_check amfi_get_out_of_my_way=0x1" (with quotes) and press Enter
+6. Restart your Mac.
 
 # How to use and additional info
 [Readme](https://github.com/fabioiop/ImprovementUI/blob/master/Readme.pdf)

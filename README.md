@@ -17,7 +17,7 @@ This utility is provided to anyone free of charge.
 
 # More
 
-macOS 10.15.6: No more GUI interface to install. To install: run CatalinaUI.command
+macOS Catalina: No more GUI interface to install. To install: run CatalinaUI.command
 
 If Catalina 10.15.4 or later stuck on boot screen:
 
